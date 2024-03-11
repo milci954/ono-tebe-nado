@@ -9,4 +9,4 @@ https://github.com/milci954
 - ### Ссылки
 - URL решения: [Github](https://github.com/milci954/ono-tebe-nado)
 ## Автор
-- Github - [Зубков Даниил] (https://github.com/milci954)
+- Github - [Зубков Даниил](https://github.com/milci954)
